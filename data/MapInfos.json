@@ -1,0 +1,10 @@
+[
+null,
+{"id":1,"expanded":false,"name":"Map1","order":1,"parentId":0,"scrollX":928.5,"scrollY":528.75},
+{"id":2,"expanded":false,"name":"Start house","order":2,"parentId":0,"scrollX":928.5,"scrollY":516.75},
+{"id":3,"expanded":false,"name":"Map2 Forest","order":3,"parentId":0,"scrollX":967.5,"scrollY":528.75},
+{"id":4,"expanded":false,"name":"??? forest","order":4,"parentId":0,"scrollX":928.5,"scrollY":528.75},
+{"id":5,"expanded":false,"name":"start","order":5,"parentId":0,"scrollX":928.5,"scrollY":516.75},
+{"id":6,"expanded":false,"name":"SmallRoom","order":6,"parentId":0,"scrollX":495.2,"scrollY":275.6},
+{"id":7,"expanded":false,"name":"Path to Map3","order":7,"parentId":0,"scrollX":550.4,"scrollY":306}
+]
